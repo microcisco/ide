@@ -6,5 +6,5 @@
 >代码编辑器用的控件是QPlainTextEdit，行号显示区的控件是QTextBrowser
 >后面的语法高亮功能计划是用正则表达式去做
 
-运行截图
-![截图](https://github.com/microcisco/ide/blob/master/koa.png)
+* 运行截图
+>![截图](https://github.com/microcisco/ide/blob/master/koa.png)
